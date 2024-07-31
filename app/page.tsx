@@ -23,9 +23,9 @@ export default function Home() {
       />
       <StarsBackground starDensity={0.00009} />
       <p className="tracking-normal font-normal leading-5 text-gray-700 text-center">
-        Welcome to my digital nook. I'm a frontend developer, technical writer.
+       {` Welcome to my digital nook. I'm a frontend developer, technical writer.
         And here, I share what I've been working on recently <br />
-        and things I learned along the way.
+        and things I learned along the way.`}
       </p>
       <div className="flex  justify-center items-center m-12 gap-4 underline-offset-2 underline ">
         <button className="px-8 py-2 border border-black bg-transparent text-black  dark:border-white relative group transition duration-200">
