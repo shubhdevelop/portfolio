@@ -41,7 +41,7 @@ export const TitleComponent = ({
   title: string;
   avatar: string;
 }) => (
-  <div className="flex space-x-2 items-center">
+  <div className="flex space-x-2 items-center justify-center">
     <Image
       src={github}
       height="200"
