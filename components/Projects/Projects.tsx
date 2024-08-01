@@ -32,7 +32,7 @@ const Projects = () => {
           toolsUsed={["RUST"]}
           githubLink="https://github.com/shubhdevelop/grssp"
           livePreview=""
-          description=""
+          description="Its a 'grep' like tool written in rust"
         />
         <ProjectCard
           projectName="Lift Simulator"
