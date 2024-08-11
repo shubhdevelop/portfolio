@@ -20,7 +20,7 @@ const FeaturedBlog = (props: Props) => {
       </div>
       <Link className="mx-auto    " href="/projects">
         <h1 className="text-xl font-black text-center tracking-tighter leading-12 mt-8 underline underline-offset-2 ">
-          More
+          See more....
         </h1>
       </Link>
     </div>

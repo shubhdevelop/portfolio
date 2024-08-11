@@ -36,7 +36,6 @@ export function BlogCard() {
 
 export const TitleComponent = ({
   title,
-  avatar,
 }: {
   title: string;
   avatar: string;
