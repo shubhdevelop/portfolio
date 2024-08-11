@@ -64,7 +64,7 @@ function ProjectCard({
               as="button"
               className="px-4 py-2 rounded-xl text-xs font-normal dark:text-white"
             >
-              <Link href={livePreview}>Live Preview →</Link>
+              <Link href={livePreview} target="_blank">Live Preview →</Link>
             </CardItem>
             <CardItem
               translateZ={20}
@@ -72,7 +72,7 @@ function ProjectCard({
               as="button"
               className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white text-xs font-bold"
             >
-              <Link href={githubLink}>Github →</Link>
+              <Link href={githubLink} target="_blank"> Github →</Link>
             </CardItem>
           </div>
           <CardItem

@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:GMT+5:30
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20240806T190000
+DTEND;TZID=Asia/Kolkata:20240806T193000
+DTSTAMP:20240803T180826Z
+ORGANIZER;CN=Parth Mukul Gupta:mailto:parth.styx@gmail.com
+UID:lf0nsi4gui2254ved4nd9srmv0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Parth Mukul Gupta;X-NUM-GUESTS=0:mailto:parth.styx@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=shubhamxraj10@gmail.com;X-NUM-GUESTS=0:mailto:shubhamxraj10@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/wmj-twru-nhm
+X-MICROSOFT-CDO-OWNERAPPTID:-455824871
+CREATED:20240803T180824Z
+DESCRIPTION:Event Name: Styx <> Interviews\n\nI need you to go through this
+  website before our call - Link (<a href="https://calendly.com/url?q=https%
+ 3A%2F%2Fwww.pwc.in%2Fassets%2Fpdfs%2Fconsulting%2Frisk-consulting%2Freadine
+ ss-of-india-inc-for-the-digital-personal-data-protection-act-2023.pdf%29">h
+ ttps://www.pwc.in/assets/pdfs/consulting/risk-consulting/readiness-of-india
+ -inc-for-the-digital-personal-data-protection-act-2023.pdf)</a>\n\nPrepare 
+ 5 points according to your understanding!\n\n\nLooking forward to talking t
+ o you\n\nLocation: This is a Google Meet web conference.\nYou can join this
+  meeting from your computer\, tablet\, or smartphone.\nhttps://calendly.com
+ /events/6ddeb14e-06c3-4aa2-bd96-ae29be585f4f/google_meet\n\nWhich role are 
+ you applying for?: Full Stack Dev Intern\n\nNeed to make changes to this ev
+ ent?\nCancel: https://calendly.com/cancellations/20735d0d-5fbf-4a95-99cc-75
+ 79210794ce\nReschedule: https://calendly.com/reschedulings/20735d0d-5fbf-4a
+ 95-99cc-7579210794ce\n\nPowered by Calendly.com\n\n\n-::~:~::~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin wit
+ h Google Meet: https://meet.google.com/wmj-twru-nhm\n\nLearn more about Mee
+ t at: https://support.google.com/a/users/answer/9282720\n\nPlease do not ed
+ it this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20240803T180824Z
+LOCATION:Google Meet (instructions in description)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Shubham Raj and Parth Mukul Gupta
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
